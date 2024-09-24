@@ -37,3 +37,5 @@ console.log(typeof heros);
 console.log(typeof bigNumber);
 console.log(typeof id);
 
+// typeof Operator Result
+// https://262.ecma-international.org/5.1/#sec-11.4.3
